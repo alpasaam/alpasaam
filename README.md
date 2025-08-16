@@ -25,7 +25,7 @@
 
 ## 📌 Featured Projects
 
-### [♟ Multiplayer Chess Console Application](link-to-repo)
+### [♟ Multiplayer Chess Console Application](https://github.com/alpasaam/chess.git)
 Real-time multiplayer chess with **player and spectator modes**.  
 - Java + WebSockets for live gameplay sync  
 - SQL for match history and persistent data  
