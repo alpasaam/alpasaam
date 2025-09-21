@@ -51,7 +51,7 @@ Responsive, accessible website with secure forms and an event scheduling system.
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saam_Naeini-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saam-naeini)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://alpasaam.github.io/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://saamn.dev/)  
 [![Email](https://img.shields.io/badge/Email-naeinisaam@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naeinisaam@gmail.com)  
 
 ---
